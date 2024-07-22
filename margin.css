@@ -1,0 +1,19 @@
+body{
+background-color:#e6cb81;
+
+}
+div{
+background-color: #916ec2;
+width:400px;
+margin:20px auto;
+border:15x solid black;
+border-radius:10px;
+box-shadow:4px 8px 15px black;
+}
+center{
+font-family:sans-serif;
+text-shadow:5px 8px 10px black;
+}
+h1{
+margin:50px;
+}
